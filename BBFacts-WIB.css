@@ -1,0 +1,16 @@
+body {
+    background-color: orange;
+}
+
+.main {
+    float: right;
+    margin: 0 0 10px 10px;
+}
+
+.maintext {
+    font-size: 25px;
+}
+
+.faint-photo {
+	float: center
+}
