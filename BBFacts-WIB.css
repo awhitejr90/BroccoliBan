@@ -11,6 +11,12 @@ body {
     font-size: 25px;
 }
 
-.faint-photo {
-	float: center
+.gassy {
+	float: left;
+	margin: 0 0 10px 10px;
+}
+
+.nosugar {
+    float: right;
+    margin: 0 0 10px 10px;
 }
