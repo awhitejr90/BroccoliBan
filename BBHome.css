@@ -1,0 +1,13 @@
+body {
+    background-color: orange;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 30%;
+}
+
+.menu {
+	float: left;
+}

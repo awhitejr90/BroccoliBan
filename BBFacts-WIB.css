@@ -1,0 +1,22 @@
+body {
+    background-color: orange;
+}
+
+.main {
+    float: right;
+    margin: 0 0 10px 10px;
+}
+
+.maintext {
+    font-size: 25px;
+}
+
+.gassy {
+	float: left;
+	margin: 0 0 10px 10px;
+}
+
+.nosugar {
+    float: right;
+    margin: 0 0 10px 10px;
+}
